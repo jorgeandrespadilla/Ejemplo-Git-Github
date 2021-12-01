@@ -24,6 +24,7 @@ namespace EjemploGitGithub
     {
         public MainPage()
         {
+            // HOLA MUNDO
             this.InitializeComponent();
         }
     }
