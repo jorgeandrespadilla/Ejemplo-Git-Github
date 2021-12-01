@@ -15,6 +15,9 @@ using Windows.UI.Xaml.Navigation;
 
 // La plantilla de elemento Página en blanco está documentada en https://go.microsoft.com/fwlink/?LinkId=402352&clcid=0xc0a
 
+//Comentario por Alain Ruales
+
+
 namespace EjemploGitGithub
 {
     /// <summary>
